@@ -39,7 +39,7 @@ Installation & Usage:
 
 
 Contributors:
-Naor bokobza
+Nachman Mimoun
 and all my wonderful team
 
 Acknowledgements
